@@ -1,8 +1,0 @@
-*.class
-*.jar
-
-/.classpath
-/.project
-/game/
-/login/
-/waiting/
