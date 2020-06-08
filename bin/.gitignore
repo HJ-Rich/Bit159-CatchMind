@@ -1,3 +1,6 @@
+*.class
+*.jar
+
 /.classpath
 /.project
 /game/
